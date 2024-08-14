@@ -11,3 +11,15 @@
   display: flex;
   justify-content: center;
 }
+
+.win {
+  border: 5px solid rgb(158, 158, 243);
+}
+
+.lose {
+  border: 5px solid rgb(245, 165, 165);
+}
+
+.tie {
+  border: 5px solid rgb(243, 144, 243);
+}
