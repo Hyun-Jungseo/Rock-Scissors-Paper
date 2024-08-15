@@ -73,8 +73,8 @@ function App() {
       }
       else if(user.name === "Paper") {
         return computer.name === "Rock" ? "win" : "lose"
-      }
-  }
+      };
+  };
 
   return (
     <div>
